@@ -1,0 +1,6 @@
+{
+  "token": "TOKEN",
+  "channel": "CHANNEL ID",
+  "message": "This is my test message",
+  "minutes": 5
+}
